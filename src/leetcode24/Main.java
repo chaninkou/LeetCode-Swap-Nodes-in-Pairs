@@ -1,4 +1,4 @@
-package linkedlinkswap;
+package leetcode24;
 
 import java.util.Arrays;
 

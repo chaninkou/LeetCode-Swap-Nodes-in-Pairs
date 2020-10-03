@@ -1,4 +1,4 @@
-package linkedlinkswap;
+package leetcode24;
 
 public class SwapNodeFromLinkedLIstFunction {
 	// Iteration solution 
